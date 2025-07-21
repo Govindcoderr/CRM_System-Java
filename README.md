@@ -156,7 +156,7 @@ private static final String PASSWORD = "your_pass";  // your MySQL password
 
 **👨‍💻 Govind Rajpurohit**
 📍 Kota, Rajasthan
-📧 [govindrajpurohit.dev@gmail.com](mailto:govindrajpurohit.dev@gmail.com)
+📧 [govindsinghmitcs@gmail.com](mailto:govindsinghmitcs@gmail.com)
 🌐 [Portfolio](https://govindrajpurohit.netlify.app)
 🔗 Java Developer | Tech Enthusiast | Entrepreneur
 
